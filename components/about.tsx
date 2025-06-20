@@ -30,7 +30,7 @@ export function About() {
     { number: "3+", label: "AI Projects", color: "text-blue-700" },
     { number: "85%", label: "Model Accuracy", color: "text-slate-700" },
     { number: "2024", label: "AI/ML Intern", color: "text-blue-700" },
-    { number: "7.2", label: "Current GPA", color: "text-slate-700" },
+    { number: "8.0", label: "Current GPA", color: "text-slate-700" },
   ]
 
   return (
